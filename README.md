@@ -2,11 +2,9 @@ Hi, I'm Biel4 and here's a little about what I know and intend to learn.
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/785315009449951232/785328332362874908/a_28b3ebb7f0a321dc1ef600e33120b7c3.gif" />
 
-💼 Languages
-JavaScript C++ Python
+💼 JavaScript C++ Python
 
-💼 I use
-Windows- Visual studio, Notepad++ and github
+💼 Windows- Visual studio, Notepad++ and github
 
 💻 Currently studying
 C# Pentest sql
