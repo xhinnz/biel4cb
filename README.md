@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi, I'm Biel4 and here's a little about what I know and intend to learn.
 
-<!--
-**biel4cb/biel4cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💼 Languages
+JavaScript C++ Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I use
+Windows- Visual studio, Notepad++ and github
+
+💻 Currently studying
+C# Pentest sql
+
+<h3 align="center">Contact</h3>
+<p align="center">
+<a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
+<a href="https://twitter.com/biel4_iv" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
+<a href="https://twitch.tv/biel4" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
+</p>
