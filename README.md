@@ -9,6 +9,11 @@ Hi, I'm Biel4 and here's a little about what I know and intend to learn.
 💻 Currently studying
 C# Pentest sql
 
+### *tools
+<p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/git.svg" title="Git" alt="git" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python"  width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" </p>
+
+
+
 ### *Spotify Playing :headphones:*
 
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
