@@ -13,8 +13,7 @@ C# Pentest sql
 
 ### *Spotify Playing :headphones:*
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />(https://open.spotify.com/playlist/3GaWmWN3baRSIUxuTRVN2o?si=WJSK-izsSw-zcPRY98iWMQ)
-
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 <h3 align="center">Contact</h3>
 <p align="center">
