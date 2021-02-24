@@ -2,12 +2,12 @@ Hi, I'm Biel4 and here's a little about what I know and intend to learn.
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/785315009449951232/785328332362874908/a_28b3ebb7f0a321dc1ef600e33120b7c3.gif" />
 
-💼 JavaScript C++ Python
+💼 JavaScript C/C++ Python and C#
 
 💼 Windows- Visual studio, Notepad++ and github
 
 💻 Currently studying -
-C# Pentest sql
+ Pentest
 
 <h3 align="center">Tools</h3>
 <p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/></p>
